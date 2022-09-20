@@ -1,0 +1,4 @@
+I'm Andrew Johnson, and I am studying C++ at Washtenaw. I have some
+experience with a several languages, and I'm excited to sharpen up my JavaScript
+for this project. Outside of class I enjoy playing videogames and doing
+programming projects / learning about programming.
